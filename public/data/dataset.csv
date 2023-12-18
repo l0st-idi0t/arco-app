@@ -1,0 +1,214 @@
+﻿datetime stamp,incident title,incident description,severity,project,type,employer
+1/1/23 8:15,Fall from Height,Worker fell from a scaffold,High,599 W Lincoln,Accident,ABC Construction Ltd.
+1/5/23 14:30,Electrical Shock,Employee received an electric shock,Medium,Wix Warehouse,Electrical,XYZ Manufacturing Inc.
+1/10/23 10:45,Slip and Fall,Slipped on a wet surface,Low,9119 Woodcreek Ct,Slip and Fall,123 Painting Solutions
+1/15/23 12:20,Machinery Accident,Operator caught hand in machinery,High,P11 TechNexis,Machinery,Global Machinery Corp.
+1/20/23 9:30,Chemical Exposure,Inhalation of toxic fumes,Medium,NewEra AgFarm Skokie,Chemical Exposure,ChemSafe Industries
+1/25/23 11:55,Fire Incident,Equipment caught fire in the Sunlife Senior Living,High,Sunlife Senior Living,Fire,Quick Fix Repairs
+1/30/23 15:10,Vehicle Collision,Forklift collision in the Wix Warehouse,Medium,Wix Warehouse,Vehicle Collision,Logistics Solutions LLC
+2/3/23 8:45,Struck by Object,Worker struck by a falling object,High,599 W Lincoln,Struck by Object,ABC Construction Ltd.
+2/8/23 13:05,Exposure to Noise,Long-term exposure to loud machinery noise,Low,Wix Warehouse,Noise Exposure,XYZ Manufacturing Inc.
+2/13/23 10:20,Chemical Spill,Spill of hazardous chemicals,High,NewEra AgFarm Skokie,Chemical Spill,ChemSafe Industries
+2/18/23 12:35,Heat Stress,Employee suffered from heat stress,Medium,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+2/23/23 9:40,Confined Space Accident,Worker trapped in a confined space,High,599 W Lincoln,Confined Space,ABC Construction Ltd.
+2/28/23 14:00,Equipment Malfunction,Malfunction of heavy machinery,High,P11 TechNexis,Machinery,Global Machinery Corp.
+3/5/23 11:25,Fall Protection Failure,Fall protection equipment failure,High,599 W Lincoln,Accident,ABC Construction Ltd.
+3/10/23 10:50,Hand Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Fix Repairs
+3/15/23 12:15,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,ChemSafe Industries
+3/20/23 9:30,Electrical Fire,Fire caused by an electrical fault,High,Wix Warehouse,Fire,XYZ Manufacturing Inc.
+3/25/23 11:55,Vehicle Accident,Company vehicle collision,Medium,9119 Woodcreek Ct,Vehicle Collision,123 Painting Solutions
+3/30/23 15:20,Slippery Floor,Slip and fall due to a slippery floor,Low,Lucky B's Denver,Slip and Fall,Fine Dining Catering
+4/3/23 8:35,Exposure to Dust,Prolonged exposure to airborne dust,Low,599 W Lincoln,Dust Exposure,ABC Construction Ltd.
+4/8/23 13:10,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Machinery Corp.
+4/13/23 10:25,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,ChemSafe Industries
+4/18/23 12:40,Fall from Ladder,Worker fell from a ladder,Medium,599 W Lincoln,Accident,ABC Construction Ltd.
+4/23/23 9:55,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+4/28/23 14:15,Tool Malfunction,Power tool malfunction,Medium,Sunlife Senior Living,Tool Malfunction,Quick Fix Repairs
+5/3/23 11:30,Heat Exhaustion,Employee suffered from heat exhaustion,Low,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+5/8/23 13:55,Confined Space Entry,Injury during confined space entry,Medium,599 W Lincoln,Confined Space,ABC Construction Ltd.
+5/13/23 10:10,Equipment Collapse,Collapse of scaffolding equipment,High,599 W Lincoln,Accident,ABC Construction Ltd.
+5/18/23 12:25,Chemical Leakage,Leakage of corrosive chemicals,High,NewEra AgFarm Skokie,Chemical Spill,ChemSafe Industries
+5/23/23 9:40,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,123 Painting Solutions
+5/28/23 14:05,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+6/2/23 8:20,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Wix Warehouse,Vibration Exposure,XYZ Manufacturing Inc.
+6/7/23 13:45,Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Fix Repairs
+6/12/23 10:10,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,ChemSafe Industries
+6/17/23 12:35,Electrical Failure,Failure in electrical wiring,High,599 W Lincoln,Electrical Failure,ABC Construction Ltd.
+6/22/23 9:50,Vehicle Collision,Company vehicle collision,Medium,9119 Woodcreek Ct,Vehicle Collision,123 Painting Solutions
+6/27/23 14:15,Slip and Fall,Slipped on a wet surface,Low,Lucky B's Denver,Slip and Fall,Fine Dining Catering
+7/2/23 8:35,Exposure to Dust,Prolonged exposure to airborne dust,Low,599 W Lincoln,Dust Exposure,ABC Construction Ltd.
+7/7/23 13:00,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Machinery Corp.
+7/12/23 10:25,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,ChemSafe Industries
+7/17/23 12:50,Fall from Ladder,Worker fell from a ladder,Medium,599 W Lincoln,Accident,ABC Construction Ltd.
+7/22/23 9:55,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+7/27/23 14:20,Tool Malfunction,Power tool malfunction,Medium,Sunlife Senior Living,Tool Malfunction,Quick Fix Repairs
+8/1/23 11:35,Heat Exhaustion,Employee suffered from heat exhaustion,Low,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+8/6/23 14:00,Confined Space Entry,Injury during confined space entry,Medium,599 W Lincoln,Confined Space,ABC Construction Ltd.
+8/11/23 10:15,Equipment Collapse,Collapse of scaffolding equipment,High,599 W Lincoln,Accident,ABC Construction Ltd.
+8/16/23 12:40,Chemical Leakage,Leakage of corrosive chemicals,High,NewEra AgFarm Skokie,Chemical Spill,ChemSafe Industries
+8/21/23 9:55,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,123 Painting Solutions
+8/26/23 14:25,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+8/31/23 8:20,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Wix Warehouse,Vibration Exposure,XYZ Manufacturing Inc.
+9/5/23 13:45,Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Fix Repairs
+9/10/23 10:10,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,ChemSafe Industries
+9/15/23 12:35,Electrical Failure,Failure in electrical wiring,High,599 W Lincoln,Electrical Failure,ABC Construction Ltd.
+9/20/23 9:50,Vehicle Collision,Company vehicle collision,Medium,9119 Woodcreek Ct,Vehicle Collision,123 Painting Solutions
+9/25/23 14:15,Slip and Fall,Slipped on a wet surface,Low,Lucky B's Denver,Slip and Fall,Fine Dining Catering
+9/30/23 8:35,Exposure to Dust,Prolonged exposure to airborne dust,Low,599 W Lincoln,Dust Exposure,ABC Construction Ltd.
+10/5/23 13:00,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Machinery Corp.
+10/10/23 10:25,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,ChemSafe Industries
+10/15/23 12:50,Fall from Ladder,Worker fell from a ladder,Medium,599 W Lincoln,Accident,ABC Construction Ltd.
+10/20/23 9:55,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+10/25/23 14:20,Tool Malfunction,Power tool malfunction,Medium,Sunlife Senior Living,Tool Malfunction,Quick Fix Repairs
+10/30/23 11:35,Heat Exhaustion,Employee suffered from heat exhaustion,Low,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+11/4/23 14:00,Confined Space Entry,Injury during confined space entry,Medium,599 W Lincoln,Confined Space,ABC Construction Ltd.
+11/9/23 10:15,Equipment Collapse,Collapse of scaffolding equipment,High,599 W Lincoln,Accident,ABC Construction Ltd.
+11/14/23 12:40,Chemical Leakage,Leakage of corrosive chemicals,High,NewEra AgFarm Skokie,Chemical Spill,ChemSafe Industries
+11/19/23 9:55,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,123 Painting Solutions
+11/24/23 14:25,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+11/29/23 8:20,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Wix Warehouse,Vibration Exposure,XYZ Manufacturing Inc.
+1/2/23 9:30,Slip and Fall,Employee slipped on an icy surface,Low,599 W Lincoln,Slip and Fall,ABC Builders Inc.
+1/7/23 14:15,Chemical Exposure,Inhalation of toxic fumes during cleaning,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+1/12/23 11:45,Equipment Malfunction,Malfunction of heavy machinery,High,P11 TechNexis,Machinery,Global Equipment Corp.
+1/17/23 13:20,Fire Incident,Small fire in the maintenance room,Medium,9119 Woodcreek Ct,Fire,Corporate Solutions Ltd.
+1/22/23 10:10,Electrical Shock,Worker received an electric shock,High,Wix Warehouse,Electrical,TechnoWidgets Manufacturing
+1/27/23 12:30,Vehicle Collision,Delivery truck collision in the Wix Warehouse,Medium,Wix Warehouse,Vehicle Collision,Logistics Solutions LLC
+2/1/23 8:45,Fall from Height,Worker fell from a ladder,High,599 W Lincoln,Accident,ABC Builders Inc.
+2/6/23 14:00,Chemical Spill,Spill of hazardous chemicals during handling,High,NewEra AgFarm Skokie,Chemical Spill,SafeChem Industries
+2/11/23 11:20,Exposure to Noise,Prolonged exposure to loud machinery noise,Low,Wix Warehouse,Noise Exposure,TechnoWidgets Manufacturing
+2/16/23 13:40,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+2/21/23 10:55,Tool Injury,Employee injured using a power tool,Medium,Sunlife Senior Living,Tool Injury,Quick Fix Repairs
+2/26/23 12:10,Confined Space Accident,Worker trapped in a confined space,High,599 W Lincoln,Confined Space,ABC Builders Inc.
+3/3/23 9:25,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,Corporate Solutions Ltd.
+3/8/23 13:50,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+3/13/23 11:15,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Wix Warehouse,Vibration Exposure,TechnoWidgets Manufacturing
+3/18/23 13:35,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Equipment Corp.
+3/23/23 10:50,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+3/28/23 12:15,Fall Protection Failure,Fall protection equipment failure,High,599 W Lincoln,Accident,ABC Builders Inc.
+4/2/23 9:40,Hand Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Fix Repairs
+4/7/23 11:55,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+4/12/23 14:20,Vehicle Accident,Company vehicle collision,Medium,9119 Woodcreek Ct,Vehicle Collision,Corporate Solutions Ltd.
+4/17/23 10:35,Slippery Floor,Slip and fall due to a slippery floor,Low,Lucky B's Denver,Slip and Fall,Fine Dining Catering
+4/22/23 13:00,Exposure to Dust,Prolonged exposure to airborne dust,Low,599 W Lincoln,Dust Exposure,ABC Builders Inc.
+4/27/23 11:25,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Equipment Corp.
+5/2/23 13:50,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+5/7/23 11:15,Fall from Ladder,Worker fell from a ladder,Medium,599 W Lincoln,Accident,ABC Builders Inc.
+5/12/23 14:40,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+5/17/23 10:55,Tool Malfunction,Power tool malfunction,Medium,Sunlife Senior Living,Tool Malfunction,Quick Fix Repairs
+5/22/23 13:20,Heat Exhaustion,Employee suffered from heat exhaustion,Low,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+5/27/23 11:45,Confined Space Entry,Injury during confined space entry,Medium,599 W Lincoln,Confined Space,ABC Builders Inc.
+6/1/23 14:10,Equipment Collapse,Collapse of scaffolding equipment,High,599 W Lincoln,Accident,ABC Builders Inc.
+6/6/23 10:25,Chemical Leakage,Leakage of corrosive chemicals,High,NewEra AgFarm Skokie,Chemical Spill,SafeChem Industries
+6/11/23 12:50,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,Corporate Solutions Ltd.
+6/16/23 10:15,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+6/21/23 13:40,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Wix Warehouse,Vibration Exposure,TechnoWidgets Manufacturing
+6/26/23 11:05,Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Fix Repairs
+7/1/23 13:30,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+7/6/23 10:55,Electrical Failure,Failure in electrical wiring,High,599 W Lincoln,Electrical Failure,ABC Builders Inc.
+7/11/23 13:20,Vehicle Collision,Company vehicle collision,Medium,9119 Woodcreek Ct,Vehicle Collision,Corporate Solutions Ltd.
+7/16/23 10:35,Slip and Fall,Slipped on a wet surface,Low,Lucky B's Denver,Slip and Fall,Fine Dining Catering
+7/21/23 13:00,Exposure to Dust,Prolonged exposure to airborne dust,Low,599 W Lincoln,Dust Exposure,ABC Builders Inc.
+7/26/23 11:25,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Equipment Corp.
+7/31/23 13:50,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+8/5/23 11:15,Fall from Ladder,Worker fell from a ladder,Medium,599 W Lincoln,Accident,ABC Builders Inc.
+8/10/23 14:40,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+8/15/23 10:55,Tool Malfunction,Power tool malfunction,Medium,Sunlife Senior Living,Tool Malfunction,Quick Fix Repairs
+8/20/23 13:20,Heat Exhaustion,Employee suffered from heat exhaustion,Low,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+8/25/23 11:45,Confined Space Entry,Injury during confined space entry,Medium,599 W Lincoln,Confined Space,ABC Builders Inc.
+8/30/23 14:10,Equipment Collapse,Collapse of scaffolding equipment,High,599 W Lincoln,Accident,ABC Builders Inc.
+9/4/23 10:25,Chemical Leakage,Leakage of corrosive chemicals,High,NewEra AgFarm Skokie,Chemical Spill,SafeChem Industries
+9/9/23 12:50,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,Corporate Solutions Ltd.
+9/14/23 10:15,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+9/19/23 13:40,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Wix Warehouse,Vibration Exposure,TechnoWidgets Manufacturing
+9/24/23 11:05,Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Fix Repairs
+9/29/23 13:30,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+10/4/23 10:55,Electrical Failure,Failure in electrical wiring,High,599 W Lincoln,Electrical Failure,ABC Builders Inc.
+10/9/23 13:20,Vehicle Collision,Company vehicle collision,Medium,9119 Woodcreek Ct,Vehicle Collision,Corporate Solutions Ltd.
+10/14/23 10:35,Slip and Fall,Slipped on a wet surface,Low,Lucky B's Denver,Slip and Fall,Fine Dining Catering
+10/19/23 13:00,Exposure to Dust,Prolonged exposure to airborne dust,Low,599 W Lincoln,Dust Exposure,ABC Builders Inc.
+10/24/23 11:25,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Equipment Corp.
+10/29/23 13:50,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+11/3/23 11:15,Fall from Ladder,Worker fell from a ladder,Medium,599 W Lincoln,Accident,ABC Builders Inc.
+11/8/23 14:40,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+11/13/23 10:55,Tool Malfunction,Power tool malfunction,Medium,Sunlife Senior Living,Tool Malfunction,Quick Fix Repairs
+11/18/23 13:20,Heat Exhaustion,Employee suffered from heat exhaustion,Low,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+11/23/23 11:45,Confined Space Entry,Injury during confined space entry,Medium,599 W Lincoln,Confined Space,ABC Builders Inc.
+11/28/23 14:10,Equipment Collapse,Collapse of scaffolding equipment,High,599 W Lincoln,Accident,ABC Builders Inc.
+12/3/23 10:25,Chemical Leakage,Leakage of corrosive chemicals,High,NewEra AgFarm Skokie,Chemical Spill,SafeChem Industries
+12/8/23 12:50,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,Corporate Solutions Ltd.
+12/13/23 10:15,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+12/18/23 13:40,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Wix Warehouse,Vibration Exposure,TechnoWidgets Manufacturing
+12/23/23 11:05,Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Fix Repairs
+12/28/23 13:30,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+1/2/23 10:30,Equipment Malfunction,Malfunction of a crane,High,599 W Lincoln,Machinery,BuildIt Constructions
+1/7/23 15:15,Chemical Exposure,Inhalation of toxic fumes during cleaning,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+1/12/23 12:45,Fire Incident,Small fire in the storage room,Medium,Wix Warehouse,Fire,Logistics Solutions LLC
+1/17/23 14:20,Vehicle Collision,Delivery truck collision in the loading area,Medium,Wix Warehouse,Vehicle Collision,Swift Logistics Inc.
+1/22/23 11:10,Fall from Height,Worker fell from scaffolding,High,599 W Lincoln,Accident,BuildIt Constructions
+1/27/23 13:30,Chemical Spill,Hazardous chemical spill during transport,High,NewEra AgFarm Skokie,Chemical Spill,SafeChem Industries
+2/1/23 9:45,Exposure to Noise,Prolonged exposure to loud machinery noise,Low,Intercounty Laundry Expansion,Noise Exposure,Advanced Manufacturing Solutions
+2/6/23 15:00,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+2/11/23 12:25,Tool Injury,Employee injured using a power tool,Medium,Sunlife Senior Living,Tool Injury,Quick Build Repairs
+2/16/23 14:40,Confined Space Accident,Worker trapped in a confined space,High,599 W Lincoln,Confined Space,BuildIt Constructions
+2/21/23 11:55,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,Corporate Dynamics Ltd.
+2/26/23 13:20,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+3/3/23 10:35,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Intercounty Laundry Expansion,Vibration Exposure,Advanced Manufacturing Solutions
+3/8/23 14:00,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Equipment Corp.
+3/13/23 11:25,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+3/18/23 13:50,Fall Protection Failure,Fall protection equipment failure,High,599 W Lincoln,Accident,BuildIt Constructions
+3/23/23 10:05,Hand Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Build Repairs
+3/28/23 12:30,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+4/2/23 9:55,Vehicle Accident,Company vehicle collision,Medium,9119 Woodcreek Ct,Vehicle Collision,Corporate Dynamics Ltd.
+4/7/23 12:20,Slippery Floor,Slip and fall due to a slippery floor,Low,Lucky B's Denver,Slip and Fall,Fine Dining Catering
+4/12/23 14:45,Exposure to Dust,Prolonged exposure to airborne dust,Low,599 W Lincoln,Dust Exposure,BuildIt Constructions
+4/17/23 11:10,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Equipment Corp.
+4/22/23 13:35,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+4/27/23 11:00,Fall from Ladder,Worker fell from a ladder,Medium,599 W Lincoln,Accident,BuildIt Constructions
+5/2/23 14:25,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+5/7/23 10:40,Tool Malfunction,Power tool malfunction,Medium,Sunlife Senior Living,Tool Malfunction,Quick Build Repairs
+5/12/23 13:05,Heat Exhaustion,Employee suffered from heat exhaustion,Low,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+5/17/23 11:30,Confined Space Entry,Injury during confined space entry,Medium,599 W Lincoln,Confined Space,BuildIt Constructions
+5/22/23 14:55,Equipment Collapse,Collapse of scaffolding equipment,High,599 W Lincoln,Accident,BuildIt Constructions
+5/27/23 11:20,Chemical Leakage,Leakage of corrosive chemicals,High,NewEra AgFarm Skokie,Chemical Spill,SafeChem Industries
+6/1/23 13:45,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,Corporate Dynamics Ltd.
+6/6/23 11:10,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+6/11/23 14:35,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Intercounty Laundry Expansion,Vibration Exposure,Advanced Manufacturing Solutions
+6/16/23 12:00,Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Build Repairs
+6/21/23 14:25,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+6/26/23 11:50,Electrical Failure,Failure in electrical wiring,High,599 W Lincoln,Electrical Failure,BuildIt Constructions
+7/1/23 14:15,Vehicle Collision,Company vehicle collision,Medium,9119 Woodcreek Ct,Vehicle Collision,Corporate Dynamics Ltd.
+7/6/23 11:40,Slip and Fall,Slipped on a wet surface,Low,Lucky B's Denver,Slip and Fall,Fine Dining Catering
+7/11/23 14:05,Exposure to Dust,Prolonged exposure to airborne dust,Low,599 W Lincoln,Dust Exposure,BuildIt Constructions
+7/16/23 12:30,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Equipment Corp.
+7/21/23 14:55,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+7/26/23 12:00,Fall from Ladder,Worker fell from a ladder,Medium,599 W Lincoln,Accident,BuildIt Constructions
+7/31/23 14:25,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+8/5/23 11:50,Tool Malfunction,Power tool malfunction,Medium,Sunlife Senior Living,Tool Malfunction,Quick Build Repairs
+8/10/23 14:15,Heat Exhaustion,Employee suffered from heat exhaustion,Low,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+8/15/23 12:40,Confined Space Entry,Injury during confined space entry,Medium,599 W Lincoln,Confined Space,BuildIt Constructions
+8/20/23 15:05,Equipment Collapse,Collapse of scaffolding equipment,High,599 W Lincoln,Accident,BuildIt Constructions
+8/25/23 12:20,Chemical Leakage,Leakage of corrosive chemicals,High,NewEra AgFarm Skokie,Chemical Spill,SafeChem Industries
+8/30/23 14:45,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,Corporate Dynamics Ltd.
+9/4/23 12:10,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+9/9/23 14:35,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Intercounty Laundry Expansion,Vibration Exposure,Advanced Manufacturing Solutions
+9/14/23 11:00,Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Build Repairs
+9/19/23 13:25,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+9/24/23 11:50,Electrical Failure,Failure in electrical wiring,High,599 W Lincoln,Electrical Failure,BuildIt Constructions
+9/29/23 14:15,Vehicle Collision,Company vehicle collision,Medium,9119 Woodcreek Ct,Vehicle Collision,Corporate Dynamics Ltd.
+10/4/23 12:40,Slip and Fall,Slipped on a wet surface,Low,Lucky B's Denver,Slip and Fall,Fine Dining Catering
+10/9/23 15:05,Exposure to Dust,Prolonged exposure to airborne dust,Low,599 W Lincoln,Dust Exposure,BuildIt Constructions
+10/14/23 11:20,Machinery Injury,Employee caught in machinery,High,P11 TechNexis,Machinery,Global Equipment Corp.
+10/19/23 13:45,Chemical Burn,Chemical burn during handling,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+10/24/23 11:10,Fall from Ladder,Worker fell from a ladder,Medium,599 W Lincoln,Accident,BuildIt Constructions
+10/29/23 14:35,Vehicle Rollover,Forklift rollover in the Wix Warehouse,High,Wix Warehouse,Vehicle Rollover,Logistics Solutions LLC
+11/3/23 11:50,Tool Malfunction,Power tool malfunction,Medium,Sunlife Senior Living,Tool Malfunction,Quick Build Repairs
+11/8/23 14:15,Heat Exhaustion,Employee suffered from heat exhaustion,Low,Vista Self Storage,Heat Stress,Sunny Builders Inc.
+11/13/23 12:40,Confined Space Entry,Injury during confined space entry,Medium,599 W Lincoln,Confined Space,BuildIt Constructions
+11/18/23 15:05,Equipment Collapse,Collapse of scaffolding equipment,High,599 W Lincoln,Accident,BuildIt Constructions
+11/23/23 12:20,Chemical Leakage,Leakage of corrosive chemicals,High,NewEra AgFarm Skokie,Chemical Spill,SafeChem Industries
+11/28/23 14:45,Fire Drill Incident,Mismanagement during a fire drill,Low,9119 Woodcreek Ct,Fire Drill,Corporate Dynamics Ltd.
+12/3/23 12:10,Vehicle Brake Failure,Brake failure in a company vehicle,Medium,Wix Warehouse,Vehicle Malfunction,Logistics Solutions LLC
+12/8/23 14:35,Exposure to Vibration,Long-term exposure to machinery vibration,Low,Intercounty Laundry Expansion,Vibration Exposure,Advanced Manufacturing Solutions
+12/13/23 11:00,Tool Injury,Employee injured using a hand tool,Medium,Sunlife Senior Living,Tool Injury,Quick Build Repairs
+12/18/23 13:25,Chemical Inhalation,Inhalation of toxic gases,Medium,NewEra AgFarm Skokie,Chemical Exposure,SafeChem Industries
+12/23/23 11:50,Electrical Failure,Failure in electrical wiring,High,599 W Lincoln,Electrical Failure,BuildIt Constructions
